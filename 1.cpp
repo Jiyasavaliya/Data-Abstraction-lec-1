@@ -27,7 +27,7 @@ class Admin{
 };
 class Manager : public Admin{
 
-	   protected :
+  protected :
    	
   int manager_salary;
   int employee_salary;
